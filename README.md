@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Samridhi%20Gupta&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fuelled%20by%20Coffee%20%26%20Code%20%C2%B7%20Building%20Things%20That%20Actually%20Think&descAlignY=58&descSize=15&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Samridhi%20Gupta&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+
+### ☕ Fuelled by Coffee & Code · Building Things That Actually Think
 
 </div>
-
 ---
 
 ## 🌟 About Me
@@ -129,5 +130,5 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,28&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" />
 </div>
