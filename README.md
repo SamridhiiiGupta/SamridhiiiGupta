@@ -120,15 +120,6 @@
 
 ---
 
-## 🏆 Certifications
-
-- 🔷 **Microsoft Certified: Azure Developer Associate** (Feb 2024)
-- 🟠 **AWS Cloud Practitioner Essentials** — Amazon Web Services (Mar 2025)
-- 🔵 **Associate Cloud Engineer Journey** — Google Cloud / Coursera (Sep 2025)
-- 🤗 **GenAI: LLMs & Hugging Face** — Cuvette Tech (May 2025)
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamridhiiiGupta&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
