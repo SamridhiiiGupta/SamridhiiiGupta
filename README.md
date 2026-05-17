@@ -10,7 +10,8 @@
 
 ## 🌟 About Me
 
-- 🎓 Final-year **B.Tech AI & Data Science** student at **Pranveer Singh Institute of Technology, Kanpur**
+- 🎓 **B.Tech AI & Data Science** Graduate — Pranveer Singh Institute of Technology, Kanpur (2026)
+- 👩‍💻 Actively seeking full-time roles in **ML Engineering, AI Development & Backend Systems**
 - 🤖 Building production-grade **ML pipelines, LLM-powered apps & RAG systems** using Python, FastAPI, and LangChain
 - 🏢 **3× Intern** — ML Engineering @ Infosys Springboard · Prompt Engineering @ Future Interns · IT @ Encrypta IN
 - ☁️ Certified **Microsoft Azure Developer Associate** & **AWS Cloud Practitioner**
